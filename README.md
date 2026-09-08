@@ -1,6 +1,6 @@
 # **Documentación de Entrega: Práctica I \- De los Píxeles a la Integral**
 
-**Integrantes del equipo:** Jerónimo Cortés Hidalgo  
+**Integrantes del equipo:** Jerónimo Cortés Hidalgo  -- Alejandro Beracierto
 **Materia:** Paradigmas de Programación (ST0244)  
 **Docente:** Alexander Narváez Berrío  
 **Institución:** Universidad EAFIT \- Escuela de Ciencias Aplicadas e Ingeniería
